@@ -20,5 +20,5 @@
 ## ALC Atlas: GES Temizleme Robotu
 
 <div align="center">
-    <img src="../assets/ges-alc-atlas.gif" alt="GES Temizleme Robotu - ALC Atlas">
+    <a href="https://youtu.be/GH3ZDc3JH5w?si=VcyHUn9rTWomesMZ"><img src="../assets/ges-alc-atlas.gif" alt="GES Temizleme Robotu - ALC Atlas"></a>
 </div>
