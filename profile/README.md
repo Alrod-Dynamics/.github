@@ -3,7 +3,7 @@
 [![Alrod Dynamics](../assets/logo.png)](https://alrod.com.tr)
 
 <p align="center">
-    <em>solutions for the solar farms</em>
+    <em>solutions for solar farms</em>
 </p>&nbsp;
 
 <div align="center">
